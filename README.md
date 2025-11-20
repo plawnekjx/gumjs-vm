@@ -1,3 +1,3 @@
-# @frida/vm
+# @plawnekjx/vm
 
-Frida-optimized ESM fork of https://github.com/browserify/vm-browserify.
+Plawnekjx-optimized ESM fork of https://github.com/browserify/vm-browserify.

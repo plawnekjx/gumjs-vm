@@ -1,6 +1,6 @@
 {
-  "name": "@frida/vm",
-  "description": "Node.js's vm module for Frida",
+  "name": "@plawnekjx/vm",
+  "description": "Node.js's vm module for Plawnekjx",
   "version": "2.0.0",
   "publishConfig": {
     "access": "public"
@@ -12,7 +12,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-vm.git"
+    "url": "https://github.com/plawnekjx/gumjs-vm.git"
   },
   "keywords": [
     "vm",
